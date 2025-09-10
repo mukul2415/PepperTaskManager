@@ -4,9 +4,21 @@ A clean and intuitive task management application built with Flutter, designed t
 
 ## 🎥 Demo Video
 
-[![Task Manager Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Task Manager Demo](https://drive.google.com/file/d/17n-PP84reuWLRyvyJsLHyxKchkz9MZPE/view?usp=sharing)](https://drive.google.com/file/d/1jDavzMOFAJzjWhiLDsOynvn-RaJRPW0F/view?usp=sharing)
 
-*(Please replace the image and link above with a screenshot of your app and the actual link to your demo video.)*
+*Click the thumbnail above to watch the full demo video.*
+
+
+
+## 📲 Download & Install APK
+
+You can download the compiled Android APK file directly from the link below to install and test the app on a physical device.
+
+<a href="https://drive.google.com/file/d/1sJPVIUwuFUqzD6nWEv934e65NpOgNDCi/view?usp=sharing">
+   <img src="https://storage.googleapis.com/flutter-fellows-prod.appspot.com/custom_images/google-play-badge.png" alt="Download APK" width="200">
+</a>
+
+**Important Note:** To install the APK, you may need to enable "Install from unknown sources" in your Android device's security settings.
 
 ## ✨ Features
 
