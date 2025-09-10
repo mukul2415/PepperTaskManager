@@ -83,7 +83,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 To build a release version of the Android application (`.apk`), run the following command in your terminal:
 
 ```sh
-flutter build apk --release
+    flutter build apk --release
+```
 
 The generated APK file will be located at `build/app/outputs/flutter-apk/app-release.apk`.
 
